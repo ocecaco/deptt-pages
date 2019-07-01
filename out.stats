@@ -5,7 +5,7 @@ common-0.1.0.0-7Mt193XNf4b2bVFfDIgOvY:1090052
 containers-0.5.11.0-GhhPXbBZ8rf1WBQjAVqqMW:257031
 dependent-map-0.2.4.0-DMPMYlmG4cR7elSMvzoKhG:56128
 dependent-sum-0.4.1-67rHSI4dU4Eh1zqJOAHqu:22008
-ghc-prim:                53022
+ghc-prim:                54389
 ghcjs-base-0.2.0.0-1zqNn6nIHQdAmmILf3TTxp:10319
 ghcjs-dom-jsffi-0.9.2.0-GnWNSjUvOFlLG3HjZwWTpH:231154
 ghcjs-prim-0.1.1.0-A1JdvSlggG4AS5cM95oali:7877
@@ -20,7 +20,7 @@ reflex-0.6.1-GmHpo3yEnQ54SCPXlKi10P:1122853
 reflex-dom-core-0.5-2PGoYAxDr6pLbpAUmy9oZs:1669807
 text-1.2.3.0-DJtdEqIKOtKIC6lWl5JFOu:9956
 these-0.7.4-LWj22MgUWve1mxJaoKypsU:12476
-transformers-0.5.5.0-8ZjexgxxdBLH8OWn8CZkwx:919100
+transformers-0.5.5.0-8ZjexgxxdBLH8OWn8CZkwx:932541
 
 
 code size per module:
@@ -124,7 +124,7 @@ ghc-prim
     GHC.Classes:                        139
     GHC.IntWord64:                      3052
     GHC.Tuple:                          4079
-    GHC.Types:                          30800
+    GHC.Types:                          32167
 
 ghcjs-base-0.2.0.0-1zqNn6nIHQdAmmILf3TTxp
     Data.JSString:                      2264
@@ -229,9 +229,9 @@ these-0.7.4-LWj22MgUWve1mxJaoKypsU
 
 transformers-0.5.5.0-8ZjexgxxdBLH8OWn8CZkwx
     Control.Monad.Trans.Reader:         7154
-    Control.Monad.Trans.State.Strict:   911946
+    Control.Monad.Trans.State.Strict:   925387
 
 
 
-packed metadata: 1104324
+packed metadata: 1105284
 
